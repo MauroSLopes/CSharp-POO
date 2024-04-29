@@ -11,7 +11,7 @@ namespace pooPokemonApp
         static void Main(string[] args)
         {
             Pokemon blaziken = new Pokemon("Blaziken", "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON’s wrists burn.", "FIRE/FIGHTING");
-            blaziken.ExibirDadosPokemon();
+            blaziken.ExibirDadosPokemon(true);
             Console.ReadLine();
         }
     }

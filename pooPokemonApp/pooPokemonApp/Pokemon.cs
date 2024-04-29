@@ -8,7 +8,7 @@ namespace pooPokemonApp
 {
     public class Pokemon
     {
-		public Pokemon(string nomePokemon, string descricaoPokemon, string tiposPokemon)
+		public Pokemon(string nomePokemon = "", string descricaoPokemon = "", string tiposPokemon = "")
 		{
 			this.Nome = nomePokemon;
 			this.DescricaoPokemon = descricaoPokemon;
@@ -49,6 +49,11 @@ namespace pooPokemonApp
 			Console.WriteLine("Descrição: {0}", this.DescricaoPokemon);
 		}
 
+        public void ExibirDadosPokemon(Boolean formatar)
+        {
+			Console.WriteLine("{0} é um pokemon tipo {1}, de acordo com a pokedex {2}", this.Nome, this.TipoPokemon, this.DescricaoPokemon);
+        }
 
-	}
+
+    }
 }
