@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPokemonApp\pooPokemonApp\bin\Debug\pooPokemonApp.exe.config
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPokemonApp\pooPokemonApp\bin\Debug\pooPokemonApp.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPokemonApp\pooPokemonApp\bin\Debug\pooPokemonApp.pdb
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPokemonApp\pooPokemonApp\obj\Debug\pooPokemonApp.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPokemonApp\pooPokemonApp\obj\Debug\pooPokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPokemonApp\pooPokemonApp\obj\Debug\pooPokemonApp.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPokemonApp\pooPokemonApp\obj\Debug\pooPokemonApp.pdb

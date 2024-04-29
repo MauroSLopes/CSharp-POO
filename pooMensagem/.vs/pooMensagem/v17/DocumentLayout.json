@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooMensagem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{110E5D11-FCE7-4D45-A4E6-CFA118325B4E}|pooMensagem\\pooMensagem.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\poomensagem\\poomensagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110E5D11-FCE7-4D45-A4E6-CFA118325B4E}|pooMensagem\\pooMensagem.csproj|solutionrelative:poomensagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110E5D11-FCE7-4D45-A4E6-CFA118325B4E}|pooMensagem\\pooMensagem.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\poomensagem\\poomensagem\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110E5D11-FCE7-4D45-A4E6-CFA118325B4E}|pooMensagem\\pooMensagem.csproj|solutionrelative:poomensagem\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mensagem.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooMensagem\\pooMensagem\\Mensagem.cs",
+              "RelativeDocumentMoniker": "pooMensagem\\Mensagem.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooMensagem\\pooMensagem\\Mensagem.cs",
+              "RelativeToolTip": "pooMensagem\\Mensagem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:03:57.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooMensagem\\pooMensagem\\Program.cs",
+              "RelativeDocumentMoniker": "pooMensagem\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooMensagem\\pooMensagem\\Program.cs",
+              "RelativeToolTip": "pooMensagem\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wBoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:57:10.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

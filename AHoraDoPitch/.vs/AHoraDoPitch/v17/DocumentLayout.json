@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\AHoraDoPitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F77176-83B0-4458-8B77-340DED35527C}|AHoraDoPitch\\AHoraDoPitch.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\ahoradopitch\\ahoradopitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F77176-83B0-4458-8B77-340DED35527C}|AHoraDoPitch\\AHoraDoPitch.csproj|solutionrelative:ahoradopitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F77176-83B0-4458-8B77-340DED35527C}|AHoraDoPitch\\AHoraDoPitch.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\ahoradopitch\\ahoradopitch\\alarme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F77176-83B0-4458-8B77-340DED35527C}|AHoraDoPitch\\AHoraDoPitch.csproj|solutionrelative:ahoradopitch\\alarme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alarme.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\AHoraDoPitch\\AHoraDoPitch\\Alarme.cs",
+              "RelativeDocumentMoniker": "AHoraDoPitch\\Alarme.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\AHoraDoPitch\\AHoraDoPitch\\Alarme.cs",
+              "RelativeToolTip": "AHoraDoPitch\\Alarme.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA2wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:23:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\AHoraDoPitch\\AHoraDoPitch\\Program.cs",
+              "RelativeDocumentMoniker": "AHoraDoPitch\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\AHoraDoPitch\\AHoraDoPitch\\Program.cs",
+              "RelativeToolTip": "AHoraDoPitch\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:21:45.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

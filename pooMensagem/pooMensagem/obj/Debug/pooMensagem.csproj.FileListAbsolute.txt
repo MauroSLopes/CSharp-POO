@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooMensagem\pooMensagem\bin\Debug\pooMensagem.exe.config
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooMensagem\pooMensagem\bin\Debug\pooMensagem.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooMensagem\pooMensagem\bin\Debug\pooMensagem.pdb
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooMensagem\pooMensagem\obj\Debug\pooMensagem.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooMensagem\pooMensagem\obj\Debug\pooMensagem.pdb
