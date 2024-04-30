@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{5195A646-0F28-453F-8401-08E04A3F89C7}|pooPokemonApp\\pooPokemonApp.csproj|solutionrelative:poopokemonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5195A646-0F28-453F-8401-08E04A3F89C7}|pooPokemonApp\\pooPokemonApp.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\poopokemonapp\\poopokemonapp\\pokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5195A646-0F28-453F-8401-08E04A3F89C7}|pooPokemonApp\\pooPokemonApp.csproj|solutionrelative:poopokemonapp\\pokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5195A646-0F28-453F-8401-08E04A3F89C7}|pooPokemonApp\\pooPokemonApp.csproj|C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPokemonApp\\poopokemonapp\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5195A646-0F28-453F-8401-08E04A3F89C7}|pooPokemonApp\\pooPokemonApp.csproj|solutionrelative:poopokemonapp\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Pokedex.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPokemonApp\\pooPokemonApp\\Pokedex.cs",
+              "RelativeDocumentMoniker": "pooPokemonApp\\Pokedex.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPokemonApp\\pooPokemonApp\\Pokedex.cs",
+              "RelativeToolTip": "pooPokemonApp\\Pokedex.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:53:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPokemonApp\\pooPokemonApp\\Pokemon.cs",
               "RelativeDocumentMoniker": "pooPokemonApp\\Pokemon.cs",
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "pooPokemonApp\\Program.cs",
               "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPokemonApp\\pooPokemonApp\\Program.cs",
               "RelativeToolTip": "pooPokemonApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T00:19:30.788Z",
               "EditorCaption": ""
