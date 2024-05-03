@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooDestrutores\pooDestrutores\bin\Debug\pooDestrutores.exe.config
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooDestrutores\pooDestrutores\bin\Debug\pooDestrutores.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooDestrutores\pooDestrutores\bin\Debug\pooDestrutores.pdb
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooDestrutores\pooDestrutores\obj\Debug\pooDestrutores.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooDestrutores\pooDestrutores\obj\Debug\pooDestrutores.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooDestrutores\pooDestrutores\obj\Debug\pooDestrutores.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooDestrutores\pooDestrutores\obj\Debug\pooDestrutores.pdb
