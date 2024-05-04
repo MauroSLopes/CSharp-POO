@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPolimorfismo\pooPolimorfismo\bin\Debug\pooPolimorfismo.exe.config
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPolimorfismo\pooPolimorfismo\bin\Debug\pooPolimorfismo.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPolimorfismo\pooPolimorfismo\bin\Debug\pooPolimorfismo.pdb
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooPolimorfismo\pooPolimorfismo\obj\Debug\pooPolimorfismo.pdb

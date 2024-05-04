@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooStatic\pooStatic\bin\Debug\pooStatic.exe.config
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooStatic\pooStatic\bin\Debug\pooStatic.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooStatic\pooStatic\bin\Debug\pooStatic.pdb
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooStatic\pooStatic\obj\Debug\pooStatic.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooStatic\pooStatic\obj\Debug\pooStatic.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooStatic\pooStatic\obj\Debug\pooStatic.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooStatic\pooStatic\obj\Debug\pooStatic.pdb

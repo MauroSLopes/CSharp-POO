@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54029FA-BC35-4D44-B973-6422067A9D87}|pooPolimorfismo\\pooPolimorfismo.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\poopolimorfismo\\poopolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54029FA-BC35-4D44-B973-6422067A9D87}|pooPolimorfismo\\pooPolimorfismo.csproj|solutionrelative:poopolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54029FA-BC35-4D44-B973-6422067A9D87}|pooPolimorfismo\\pooPolimorfismo.csproj|C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\poopolimorfismo\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54029FA-BC35-4D44-B973-6422067A9D87}|pooPolimorfismo\\pooPolimorfismo.csproj|solutionrelative:poopolimorfismo\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54029FA-BC35-4D44-B973-6422067A9D87}|pooPolimorfismo\\pooPolimorfismo.csproj|C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\poopolimorfismo\\formas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54029FA-BC35-4D44-B973-6422067A9D87}|pooPolimorfismo\\pooPolimorfismo.csproj|solutionrelative:poopolimorfismo\\formas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54029FA-BC35-4D44-B973-6422067A9D87}|pooPolimorfismo\\pooPolimorfismo.csproj|C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\poopolimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54029FA-BC35-4D44-B973-6422067A9D87}|pooPolimorfismo\\pooPolimorfismo.csproj|solutionrelative:poopolimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\pooPolimorfismo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "pooPolimorfismo\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\pooPolimorfismo\\Triangulo.cs",
+              "RelativeToolTip": "pooPolimorfismo\\Triangulo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:16:55.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\pooPolimorfismo\\Quadrado.cs",
+              "RelativeDocumentMoniker": "pooPolimorfismo\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\pooPolimorfismo\\Quadrado.cs",
+              "RelativeToolTip": "pooPolimorfismo\\Quadrado.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:13:06.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formas.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\pooPolimorfismo\\Formas.cs",
+              "RelativeDocumentMoniker": "pooPolimorfismo\\Formas.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\pooPolimorfismo\\Formas.cs",
+              "RelativeToolTip": "pooPolimorfismo\\Formas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:01:48.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\pooPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "pooPolimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooPolimorfismo\\pooPolimorfismo\\Program.cs",
+              "RelativeToolTip": "pooPolimorfismo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:58:12.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
