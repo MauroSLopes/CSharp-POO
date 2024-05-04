@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3115A13-FBAF-4E10-8BFD-EF640CD9FEF7}|pooContaBancaria\\pooContaBancaria.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\poocontabancaria\\poocontabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3115A13-FBAF-4E10-8BFD-EF640CD9FEF7}|pooContaBancaria\\pooContaBancaria.csproj|solutionrelative:poocontabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3115A13-FBAF-4E10-8BFD-EF640CD9FEF7}|pooContaBancaria\\pooContaBancaria.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\poocontabancaria\\poocontabancaria\\contaestudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3115A13-FBAF-4E10-8BFD-EF640CD9FEF7}|pooContaBancaria\\pooContaBancaria.csproj|solutionrelative:poocontabancaria\\contaestudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3115A13-FBAF-4E10-8BFD-EF640CD9FEF7}|pooContaBancaria\\pooContaBancaria.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\poocontabancaria\\poocontabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3115A13-FBAF-4E10-8BFD-EF640CD9FEF7}|pooContaBancaria\\pooContaBancaria.csproj|solutionrelative:poocontabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3115A13-FBAF-4E10-8BFD-EF640CD9FEF7}|pooContaBancaria\\pooContaBancaria.csproj|c:\\users\\mauro\\documents\\c#learning\\secao5\\poocontabancaria\\poocontabancaria\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3115A13-FBAF-4E10-8BFD-EF640CD9FEF7}|pooContaBancaria\\pooContaBancaria.csproj|solutionrelative:poocontabancaria\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaEstudante.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\pooContaBancaria\\ContaEstudante.cs",
+              "RelativeDocumentMoniker": "pooContaBancaria\\ContaEstudante.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\pooContaBancaria\\ContaEstudante.cs",
+              "RelativeToolTip": "pooContaBancaria\\ContaEstudante.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:58:52.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\pooContaBancaria\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "pooContaBancaria\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\pooContaBancaria\\ContaBancaria.cs",
+              "RelativeToolTip": "pooContaBancaria\\ContaBancaria.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA0wC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:46:47.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\pooContaBancaria\\Cliente.cs",
+              "RelativeDocumentMoniker": "pooContaBancaria\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\pooContaBancaria\\Cliente.cs",
+              "RelativeToolTip": "pooContaBancaria\\Cliente.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:41:12.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\pooContaBancaria\\Program.cs",
+              "RelativeDocumentMoniker": "pooContaBancaria\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Secao5\\pooContaBancaria\\pooContaBancaria\\Program.cs",
+              "RelativeToolTip": "pooContaBancaria\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:40:50.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

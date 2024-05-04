@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooContaBancaria\pooContaBancaria\bin\Debug\pooContaBancaria.exe.config
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooContaBancaria\pooContaBancaria\bin\Debug\pooContaBancaria.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooContaBancaria\pooContaBancaria\bin\Debug\pooContaBancaria.pdb
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.exe
+C:\Users\Mauro\Documents\C#Learning\Secao5\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.pdb
